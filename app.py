@@ -20,6 +20,10 @@ def get_videos():
         {
             "title": "3rd Episode",
             "url": "https://rumble.com/embed/v64n0qm/?pub=y5av6"
+        },
+        {
+            "title": "4th Episode",
+            "url": "https://rumble.com/embed/v64n0qm/?pub=y5av6"
         }
     ]
     return jsonify(videos)
