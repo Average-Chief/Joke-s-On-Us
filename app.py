@@ -24,6 +24,10 @@ def get_videos():
         {
             "title": "Ft.Badshad_SiddhantChaturvedi",
             "url": "https://rumble.com/embed/v64umz4/?pub=y5av6"
+        },
+        {
+            "title": "Ft.Rohanjoshi_SahilShah",
+            "url": "https://rumble.com/embed/v64utxj/?pub=y5av6"
         }
     ]
     return jsonify(videos)
