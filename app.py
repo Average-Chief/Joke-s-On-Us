@@ -14,8 +14,8 @@ def get_videos():
             "url": "https://rumble.com/embed/v64u80d/?pub=y5av6"
         },
         {
-            "title": "2nd Episode",
-            "url": "https://rumble.com/embed/v64n0qm/?pub=y5av6"
+            "title": "Ft.AvikaGor",
+            "url": "https://rumble.com/embed/v64ucrm/?pub=y5av6"
         },
         {
             "title": "3rd Episode",
