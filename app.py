@@ -10,8 +10,8 @@ def home():
 def get_videos():
     videos = [
         {
-            "title": "1st Episode",
-            "url": "https://rumble.com/embed/v64mgw1/?pub=y5av6"
+            "title": "Ft.SeedheMaut_Madhurvirli",
+            "url": "https://rumble.com/embed/v64u80d/?pub=y5av6"
         },
         {
             "title": "2nd Episode",
