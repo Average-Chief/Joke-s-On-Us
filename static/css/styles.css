@@ -15,6 +15,13 @@ h1 {
     margin-bottom: 20px;
 }
 
+/* Header2 Styling */
+h2 {
+    font-family: 'Courier New', monospace;
+    padding: 1rem;
+    margin-bottom: 20px;
+}
+
 /* Video Container */
 #video-container {
     display: flex;
