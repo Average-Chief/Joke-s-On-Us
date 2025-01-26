@@ -11,7 +11,7 @@ def get_videos():
     videos = [
         {
             "title": "Discarded EP 1 Ft.AakashGupta_AnubhavSinghBassi",
-            "url": "https://rumble.com/embed/v6bfyev/?pub=y5av6"
+            "url": "https://rumble.com/embed/v6bgd64/?pub=y5av6"
         },
         {
             "title": "Ft.SeedheMaut_Madhurvirli",
