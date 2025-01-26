@@ -10,7 +10,7 @@ def home():
 def get_videos():
     videos = [
         {
-            "title": "Discarded EP 1 ft. ‪@AakashGupta‬ ‪@AnubhavSinghBassi‬",
+            "title": "Discarded EP 1 Ft.AakashGupta‬_AnubhavSinghBassi‬",
             "url": "https://rumble.com/embed/v6bfyev/?pub=y5av6"
         },
         {
