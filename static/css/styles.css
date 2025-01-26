@@ -22,6 +22,11 @@ h2 {
     color: #ffffff;
 }
 
+/* Header3 Styling */
+h3{
+    color: #ffffff;    
+}
+
 /* Video Container */
 #video-container {
     display: flex;
