@@ -1,3 +1,12 @@
+/* Additional Font*/
+@font-face {
+    font-family: 'Blox';
+    src: url('font/Blox-webfont.woff2') format('woff2'),
+         url('font/Blox-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Basic Body Styling */
 body {
     font-family: Arial, sans-serif;
@@ -9,6 +18,7 @@ body {
 
 /* Header Styling */
 h1 {
+    font-family: 'Blox';
     background-color: #000000;
     color: #ffffff;
     padding: 1rem;
